@@ -14,3 +14,13 @@ A web application that allows user to search and visualize their leetcode coding
 7. Input Validation: Username validation with proper error handling
    
 9. Responsive Design: Clean and modern user interface
+
+ 🚀 API Integration
+ 
+This project uses the LeetCode Stats API to fetch user data:
+
+Endpoint: https://leetcode-stats-api.herokuapp.com/{username}
+
+Method: GET
+
+Response: JSON object containing user statistics
